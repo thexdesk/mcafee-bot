@@ -252,9 +252,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-lazy.js@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/lazy.js/-/lazy.js-0.5.0.tgz#d8a02be135806fcbbcd7999513d8b6faf9857550"
+lazy.js@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/lazy.js/-/lazy.js-0.5.1.tgz#9f05c27f42c66ae7f41814c9674d105efcbc432f"
+  integrity sha512-p9v24vaKrzS2mEx3yuzva/3M6I3+HwvXd0pB1Xf/IvsFIMdhQgmym7JBO0e7c0OZmKTo07sCuiCIm6jazSWFNw==
 
 lodash@^4.13.1:
   version "4.17.4"
