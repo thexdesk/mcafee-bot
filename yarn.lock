@@ -288,9 +288,10 @@ nan@^2.3.3:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.8.0.tgz#ed715f3fe9de02b57a5e6252d90a96675e1f085a"
 
-node-bittrex-api@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/node-bittrex-api/-/node-bittrex-api-0.8.1.tgz#49c69de881e985ef63adaa95ec9148326d45a998"
+node-bittrex-api@^0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/node-bittrex-api/-/node-bittrex-api-0.8.3.tgz#849d4da5c217017cada749a46ce1788fc397d7f3"
+  integrity sha1-hJ1NpcIXAXytp0mkbOF4j8OX1/M=
   dependencies:
     cloudscraper "^1.4.1"
     jsonic "^0.3.0"
