@@ -20,6 +20,6 @@
     "node-bittrex-api": "^0.8.1",
     "node-tesseract": "^0.2.7",
     "request-promise": "^4.2.2",
-    "twit": "^2.2.9"
+    "twit": "^2.2.11"
   }
 }
